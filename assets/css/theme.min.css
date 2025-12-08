@@ -25358,7 +25358,7 @@ fieldset:disabled .btn {
 [data-layout=horizontal] .container-sm,
 [data-layout=horizontal] .container-xl,
 [data-layout=horizontal] .container-xxl {
-    max-width: 80%
+    max-width: 90%
 }
 
 @media (max-width:768px) {
